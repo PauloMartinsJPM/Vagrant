@@ -1,2 +1,2 @@
 # Vagrant
-## Criação de um Cluster Swarm local, utilizando máquinas virtuais utilizando Vagrant.
+## Criação de um Cluster Swarm local, utilizando máquinas virtuais com Vagrant.
