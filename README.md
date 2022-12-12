@@ -1,6 +1,6 @@
-Vagrant
+# Vagrant
 
-Criação de um Cluster Swarm local, utilizando máquinas virtuais com Vagrant.
+## Criação de um Cluster Swarm local, utilizando máquinas virtuais com Vagrant.
 
 Quando o comando "vagrant up" é executado não se consegue montar o bento/ubuntu.
 Esse erro me impede de concluir o projeto.
